@@ -1,0 +1,14 @@
+
+/* Add a sky blue background color to the body background */
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;/* we can change font style by using the font-familiy css tag */
+	background: aqua;/* you can change the background color of body using background css tag */
+}
+a:hover
+ {
+	background-color: yellow;
+}
+  
+  
